@@ -1,0 +1,23 @@
+{
+  "id": "3990924",
+  "name": "新建文件夹",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34166773",
+      "name": "箭头-向下",
+      "font_class": "jiantou-xiangxia",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "34166767",
+      "name": "箭头-向上",
+      "font_class": "jiantou-xiangshang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
